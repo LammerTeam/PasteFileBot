@@ -1,5 +1,5 @@
 # PasteFileBot
-#open By @LammerTeam
+open By @LammerTeam
 
 # Telegram Channel
 
