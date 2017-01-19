@@ -1,6 +1,6 @@
 <?php
-    define('TOKEN', 'token');
-    $channel = '@username';
+    define('TOKEN', 'توکن ربات شما');
+    $channel = 'ایدی شما با @';
     $update = json_decode(file_get_contents('php://input'));
     $chat_id = $update->message->chat->id;
     $msg_id = $update->message->message_id;
